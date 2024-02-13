@@ -1,6 +1,5 @@
 /**
  * Portfolio component
- *
  * Highlights some of  your creations. These can be designs, websites,
  * open source contributions, articles you've written and more.
  *
@@ -31,28 +30,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title:"A Career Canvas Application",
+    description:"Created a web application using react as frontend and php as backend. The application is used by students to craft a resume to suite a job role",
+    url:"https://github.com/wendytim4/ACareerCanvas/tree/master",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hospital Management",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a web application whereby I built the frontend and the backend of web application to manage patients information.",
+    url: "https://github.com/wendytim4/school-hospital-web-application",
   },
   {
-    title: "My Resume Site",
+    title: "My Portfolio Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://github.com/wendytim4/mlsa_myportfolio",
   },
 ];
 
