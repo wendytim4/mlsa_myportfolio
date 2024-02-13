@@ -105,12 +105,10 @@ Footer.defaultProps = {
 };
 
 Footer.propTypes = {
-  devDotTo: PropTypes.string,
   email: PropTypes.string,
   gitHub: PropTypes.string,
   instagram: PropTypes.string,
   linkedIn: PropTypes.string,
-  medium: PropTypes.string,
   name: PropTypes.string.isRequired,
   primaryColor: PropTypes.string,
   twitter: PropTypes.string,
