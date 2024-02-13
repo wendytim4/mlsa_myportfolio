@@ -30,9 +30,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title:"A Career Canvas Application",
-    description:"Created a web application using react as frontend and php as backend. The application is used by students to craft a resume to suite a job role",
-    url:"https://github.com/wendytim4/ACareerCanvas/tree/master",
+    title: "A Career Canvas Application",
+    description:
+      "Created a web application using react as frontend and php as backend. The application is used by students to craft a resume to suite a job role",
+    url: "https://github.com/wendytim4/ACareerCanvas/tree/master",
   },
   {
     title: "Hospital Management",
