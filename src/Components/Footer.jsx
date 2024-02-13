@@ -26,16 +26,7 @@ import youTubeIcon from "../images/socials/youtube.svg";
  */
 
 const Footer = (props) => {
-  const {
-    email, 
-    gitHub,
-    instagram,
-    linkedIn,
-    name,
-    primaryColor,
-    twitter,
-    youTube,
-  } = props;
+  const { email, gitHub, instagram, linkedIn, name, primaryColor, twitter, youTube } = props;
 
   return (
     <div
